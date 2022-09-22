@@ -32,10 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Modula-2 source file
+*.mod linguist-detectable=true
+*.mod linguist-documentation=false
+*.mod linguist-language=Modula-2
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +173,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Thursday, September 22nd at 3:30 pm PST)
 # Line count (including blank lines and compiler line): 180
 # End of script
