@@ -36,6 +36,24 @@
 *.mod linguist-detectable=true
 *.mod linguist-documentation=false
 *.mod linguist-language=Modula-2
+*.MOD linguist-detectable=true
+*.MOD linguist-documentation=false
+*.MOD linguist-language=Modula-2
+*.def linguist-detectable=true
+*.def linguist-documentation=false
+*.def linguist-language=Modula-2
+*.DEF linguist-detectable=true
+*.DEF linguist-documentation=false
+*.DEF linguist-language=Modula-2
+*.m2 linguist-detectable=true
+*.m2 linguist-documentation=false
+*.m2 linguist-language=Modula-2
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+*.md linguist-language=Modula-2
+*.mi linguist-detectable=true
+*.mi linguist-documentation=false
+*.mi linguist-language=Modula-2
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -174,6 +192,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 3 (2022, Thursday, September 22nd at 3:30 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File version: 4 (2022, Wednesday, November 16th at 2:23 pm PST)
+# Line count (including blank lines and compiler line): 198
 # End of script
